@@ -1,4 +1,4 @@
-#Users can search for scecific food and find recipes.
+# Users can search for scecific food and find recipes.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
